@@ -1,0 +1,1 @@
+document.querySelectorAll('.botao').forEach(b=>{b.addEventListener('mouseenter',()=>b.style.transform='scale(1.04)');b.addEventListener('mouseleave',()=>b.style.transform='scale(1)')});

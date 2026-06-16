@@ -1,0 +1,1 @@
+Coloque suas imagens em imagens/fundo.jpg e imagens/perfil.jpg e edite os links HTML.
